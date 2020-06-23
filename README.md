@@ -8,4 +8,4 @@ Figure. Illustration of four genes (CDC6, RIO2, NSP1, EXG1) that carry a group o
 ---------------
 This repository contains scripts to reproduce the analysis and figures. The data is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3905252.svg)](https://doi.org/10.5281/zenodo.3905252), extract the archive to a folder named 'data'.
 
-Dependencies are provided the conda environment.yml file in 'docs' folder.
+Dependencies are provided in the conda environment.yml file in 'docs' folder.
