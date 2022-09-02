@@ -1,4 +1,5 @@
 ## Gene expression is encoded in all parts of a co-evolving interacting gene regulatory structure
+Link to paper: [10.1038/s41467-020-19921-4](https://doi.org/10.1038/s41467-020-19921-4)
 
 <img src=https://github.com/JanZrimec/DeepExpression/blob/master/docs/Fig4_draw1.png alt="drawing" width="600">
 Figure. Illustration of four genes (CDC6, RIO2, NSP1, EXG1) that carry a group of motif co-occurrence rules with a common motif (NHP6B transcription factor binding site, blue line) in their promoter region. The genes diverge in possessing 2 to 4 other DNA motifs (red lines) across the remaining regulatory regions (promoter, 5' and 3' UTRs and terminator), which repurpose the expression of these genes across a range of almost 3 orders of magnitude of expression levels. Red lines in the histogram denote the specific expression levels of the genes.
